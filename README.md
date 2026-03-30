@@ -79,6 +79,18 @@ me.say_hi()
  
 ---
 
+<!-- ── SKILLS WAVE ────────────────────────────────────────────────── -->
+ 
+<div align="center">
+ 
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,bootstrap,mysql,docker,git,github,tensorflow,opencv,firebase&theme=dark&perline=7" />
+ 
+</div>
+ 
+<br/>
+ 
+---
+
 ## 🚀 &nbsp;Featured Projects
 
 <table>

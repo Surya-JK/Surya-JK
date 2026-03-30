@@ -216,6 +216,9 @@ me.say_hi()
 <br/>
  
 ---
+<!-- ── FOOTER WAVE ────────────────────────────────────────────────── -->
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:0d2a1a&height=100&section=footer&text=Let's%20Connect!&fontSize=24&fontColor=5DCAA5&fontAlignY=65&animation=twinkling" width="100%"/>
 
 <div align="center">
 

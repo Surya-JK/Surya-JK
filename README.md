@@ -175,7 +175,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn Icon](https://raw.githubusercontent.com)](https://linkedin.com/in/suryajk)
+[![LinkedIn Icon]([https://raw.githubusercontent.com](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/small/colored/linkedin.svg))](https://linkedin.com/in/suryajk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=firefox&logoColor=378ADD)](https://surya-jk-portfolio.onrender.com)
 [![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=D85A30)](mailto:jksurya06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-JK)

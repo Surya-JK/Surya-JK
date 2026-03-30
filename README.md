@@ -54,7 +54,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="trophies"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="trophies"/>](https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -66,7 +66,7 @@ me.say_hi()
 
 ## 🛠 &nbsp;Tech Arsenal
 
-[<div align="center">](https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+<div align="center">
 
 <!-- Languages -->
 **Languages**

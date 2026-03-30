@@ -203,6 +203,20 @@ me.say_hi()
 
 ---
 
+<!-- ── RANDOM DEV QUOTE ───────────────────────────────────────────── -->
+ 
+## 💭 &nbsp;Dev Quote of the Day
+ 
+<div align="center">
+ 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d0d1a&border_color=1e1e3a&quote_color=5DCAA5&author_color=378ADD" width="80%" alt="Dev Quote"/>
+ 
+</div>
+ 
+<br/>
+ 
+---
+
 <div align="center">
 
 [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=5DCAA5)](https://linkedin.com/in/suryajk)

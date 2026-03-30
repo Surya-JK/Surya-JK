@@ -94,9 +94,9 @@ me.say_hi()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 BonTon Chatbot & E-commerce</h3>
+      <h3> BonTon Prototype Website</h3>
       <p><i>BonTon Softwares · Jul–Oct 2025</i></p>
-      <p>Full-stack chatbot, e-commerce app, and prototype site. 4-month internship covering frontend + backend.</p>
+      <p>Full-stack prototype site. 4-month internship covering frontend + backend.</p>
       <p>
         <img src="https://img.shields.io/badge/React_v19-0d0d1a?style=flat-square&logo=react&logoColor=7F77DD"/>
         <img src="https://img.shields.io/badge/MySQL-0d0d1a?style=flat-square&logo=mysql&logoColor=7F77DD"/>
@@ -107,7 +107,7 @@ me.say_hi()
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Virtual Assistant + 🌦 Weather Monitor</h3>
+      <h3> Virtual Assistant + 🌦 Weather Monitor</h3>
       <p><i>Personal Projects · 2024</i></p>
       <p>Voice-enabled virtual assistant and real-time weather monitoring system — both built in Python.</p>
       <p>

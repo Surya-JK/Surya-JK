@@ -93,8 +93,9 @@ Personal Python projects — a voice-enabled virtual assistant and a real-time w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-JK&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-JK&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-JK&hide_border=true&theme=transparent" height="150"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Surya-JK&label=Profile+Views&color=blue&style=flat-square" />
 </div>
 
 ---

@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:0d1a2e,100:0d0d1a&height=200&section=header&text=Surya%20JK&fontSize=80&fontColor=5DCAA5&fontAlignY=55&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20%26%20DS&descAlignY=75&descColor=378ADD&animation=twinkling&stroke=5DCAA5&strokeWidth=2" width="100%"/>
+<!-- Self-hosted animated header banner -->
+<img src="./assets/header.svg" width="100%"/>
 
 </div>
 
@@ -54,7 +54,7 @@ me.say_hi()
 
 <div align="center">
 
-[<img src="https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="trophies"/>](https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="trophies"/>
 
 </div>
 
@@ -296,7 +296,8 @@ me.say_hi()
 
 <!-- ── FOOTER WAVE ────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:0d2a1a&height=100&section=footer&text=Let's%20Connect!&fontSize=24&fontColor=5DCAA5&fontAlignY=65&animation=twinkling" width="100%"/>
+<!-- Self-hosted animated footer banner -->
+<img src="./assets/footer.svg" width="100%"/>
 
 <!-- ── CONNECT ──────────────────────────────────────────────────────  -->
 

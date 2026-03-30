@@ -66,7 +66,7 @@ me.say_hi()
 
 ## 🛠 &nbsp;Tech Arsenal
 
-<div align="center">
+[<div align="center">](https://github-profile-trophy.vercel.app/?username=Surya-JK&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 <!-- Languages -->
 **Languages**

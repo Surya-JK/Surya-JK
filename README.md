@@ -34,31 +34,49 @@ me.say_hi()
 
 <br/>
 
----
-
+<!-- ── TECH ARSENAL ───────────────────────────────────────────────── -->
+ 
 ## 🛠 &nbsp;Tech Arsenal
-
+ 
 <div align="center">
-
+ 
+<!-- Languages -->
+**Languages**
+ 
 ![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=5DCAA5)
 ![Java](https://img.shields.io/badge/Java-0d0d1a?style=for-the-badge&logo=openjdk&logoColor=378ADD)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=EF9F27)
+![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=5DCAA5)
+ 
+<!-- Frontend -->
+**Frontend**
+ 
 ![React](https://img.shields.io/badge/React-0d0d1a?style=for-the-badge&logo=react&logoColor=7F77DD)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=for-the-badge&logo=html5&logoColor=D85A30)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=for-the-badge&logo=css3&logoColor=378ADD)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d1a?style=for-the-badge&logo=bootstrap&logoColor=7F77DD)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=5DCAA5)
-![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=for-the-badge&logo=sqlite&logoColor=378ADD)
+ 
+<!-- Data & ML -->
+**AI / ML & Data**
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=for-the-badge&logo=tensorflow&logoColor=EF9F27)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d1a?style=for-the-badge&logo=opencv&logoColor=5DCAA5)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-0d0d1a?style=for-the-badge&logo=apache&logoColor=D85A30)
+ 
+<!-- Tools & Cloud -->
+**Tools & Cloud**
+ 
 ![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=378ADD)
-![Apache](https://img.shields.io/badge/Apache_Superset-0d0d1a?style=for-the-badge&logo=apache&logoColor=D85A30)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-0d0d1a?style=for-the-badge&logo=oracle&logoColor=D85A30)
 ![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=D85A30)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=ffffff)
-
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d0d1a?style=for-the-badge&logo=oracle&logoColor=D85A30)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=5DCAA5)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=for-the-badge&logo=sqlite&logoColor=378ADD)
+ 
 </div>
-
+ 
 <br/>
-
+ 
 ---
 
 ## 🚀 &nbsp;Featured Projects

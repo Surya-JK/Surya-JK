@@ -21,8 +21,8 @@ class SuryaJK:
         self.cgpa        = 9.08
         self.roles       = ["ML Engineer", "Full-stack Dev", "Data Analyst"]
         self.languages   = ["Tamil (Native)", "English (Professional)"]
-        self.interests   = ["Computer Vision", "LLMs", "Data Visualization"]
-        self.hobbies     = ["Cricket 🏏", "Music 🎵", "Building side projects"]
+        self.interests   = ["LLMs", "Data Visualization"]
+        self.hobbies     = ["Cricket 🏏", "Music", "Building side projects","Dance"]
 
     def say_hi(self):
         print("I build things that think.")

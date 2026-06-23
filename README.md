@@ -232,6 +232,6 @@ me.say_hi()
 
 <br/>
 
-*"Always open to meaningful conversations, collabs, and a good cricket debate 🏏"*
+*"Always open to meaningful conversations and collabs"*
 
 </div>
